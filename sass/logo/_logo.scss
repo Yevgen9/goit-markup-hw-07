@@ -1,0 +1,44 @@
+/* ЛОГО ХЕДЕР*/
+
+.wrapper-nav .logo {
+  padding-left: 215px;
+
+  color: #000000;
+
+  font-family: $font-logo;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: normal;
+  letter-spacing: 0.78px;
+  text-decoration: none;
+}
+
+span {
+  color: $accent-color;
+
+  font-family: $font-logo;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: normal;
+  letter-spacing: 0.78px;
+}
+
+/* ЛОГО ФУТЕР*/
+
+.page-footer .logo {
+  display: block;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  padding-left: 215px;
+
+  color: $button-text-color;
+
+  font-family: $font-logo;
+  font-weight: 700;
+  font-size: 26px;
+  font-style: normal;
+  text-decoration: none;
+  letter-spacing: 0.78px;
+}
